@@ -6,3 +6,4 @@
 + [Useful placeholder api for slicing](https://unsplash.it/)
 + [Programming jokes](https://github.com/wesbos/dad-jokes)
 + [Being a junior developer is rough](https://hackernoon.com/being-a-junior-developer-is-tough-f716cc83655d)
++ [The CI/CD Pipeline](https://www.excella.com/insights/8-ways-to-keep-your-continuous-integration-and-deployment-cicd-pipeline-working-for-you)
