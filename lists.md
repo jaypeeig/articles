@@ -5,3 +5,4 @@
 + [Bad Habits for unmaintainable code](https://chrismm.com/blog/avoid-these-35-habits-that-lead-to-unmaintainable-code/)
 + [Useful placeholder api for slicing](https://unsplash.it/)
 + [Programming jokes](https://github.com/wesbos/dad-jokes)
++ [Being a junior developer is rough](https://hackernoon.com/being-a-junior-developer-is-tough-f716cc83655d)
