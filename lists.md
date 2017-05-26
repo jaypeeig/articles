@@ -8,3 +8,4 @@
 + [Being a junior developer is rough](https://hackernoon.com/being-a-junior-developer-is-tough-f716cc83655d)
 + [The CI/CD Pipeline](https://www.excella.com/insights/8-ways-to-keep-your-continuous-integration-and-deployment-cicd-pipeline-working-for-you)
 + [Getting started with PHP Serverless](https://read.acloud.guru/serverless-php-630bb3e950f5)
++ [Common wordpress attacks](https://blogvault.net/common-attacks-on-wordpress-sites-101-file-inclusion-arbitrary-code-execution/)
