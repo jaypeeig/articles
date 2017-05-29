@@ -9,3 +9,4 @@
 + [The CI/CD Pipeline](https://www.excella.com/insights/8-ways-to-keep-your-continuous-integration-and-deployment-cicd-pipeline-working-for-you)
 + [Getting started with PHP Serverless](https://read.acloud.guru/serverless-php-630bb3e950f5)
 + [Common wordpress attacks](https://blogvault.net/common-attacks-on-wordpress-sites-101-file-inclusion-arbitrary-code-execution/)
++ [Stand out as a software engineer](https://www.quora.com/What-do-you-need-to-know-do-in-order-to-stand-out-as-a-software-engineer/answer/Bill-Karwin)
