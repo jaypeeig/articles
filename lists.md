@@ -12,3 +12,5 @@
 + [Stand out as a software engineer](https://www.quora.com/What-do-you-need-to-know-do-in-order-to-stand-out-as-a-software-engineer/answer/Bill-Karwin)
 + [Sessionstorage Localstorage Cookies](https://www.quora.com/What-is-the-difference-between-sessionstorage-localstorage-and-Cookies)
 
+### June 2017
++ [Common day of a developer](https://www.quora.com/What-do-programmers-generally-do-all-day-at-work)
