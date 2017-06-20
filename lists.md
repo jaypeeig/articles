@@ -15,3 +15,4 @@
 ### June 2017
 + [Common day of a developer](https://www.quora.com/What-do-programmers-generally-do-all-day-at-work)
 + [Guide on becoming Full Stack Develop](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
++ [Laravel Guide](https://laravel-news.com/your-first-laravel-application)
