@@ -19,3 +19,6 @@
 
 ### July 2017
 + [Wifi Cracking](https://github.com/brannondorsey/wifi-cracking)
+
+### October 2017
++ [Useful CodeHacks by Devhints](https://devhints.io/)
