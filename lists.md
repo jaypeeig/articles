@@ -22,3 +22,4 @@
 
 ### October 2017
 + [Useful CodeHacks by Devhints](https://devhints.io/)
++ [Dating Age Rules](https://www.urbandictionary.com/define.php?term=Half%20plus%20seven)
