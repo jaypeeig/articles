@@ -23,3 +23,6 @@
 ### October 2017
 + [Useful CodeHacks by Devhints](https://devhints.io/)
 + [Dating Age Rules](https://www.urbandictionary.com/define.php?term=Half%20plus%20seven)
+
+### December 2017
++ [React js Fundamentals](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
