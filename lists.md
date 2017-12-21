@@ -26,3 +26,4 @@
 
 ### December 2017
 + [React js Fundamentals](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db)
++ [Useful screenshot tool](snag.gy)
